@@ -2,7 +2,7 @@ IntelliJ IDEA / PhpStorm Laravel Plugin
 -------------
 
 >
-> THIS PROJECT IS DEAD. I'm not a new maintainer, I'm just a guy who needs this plugin to work in the latest PHPStorm version.
+> THIS PROJECT IS DEAD. I'm not a new maintainer, I'm just a guy who needs this plugin to work in the latest PHPStorm version. (2022.3.1 - Build #PS-223.8214.64)
 >
 
 ## Installation
